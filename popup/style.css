@@ -38,6 +38,7 @@ html, body {
   font-size: 18px;
   padding: 0;
   cursor: pointer;
+  font-family: Noto Color Emoji, Emojione, Twemoji, Symbola;
 }
 
 .emoji:hover {
@@ -46,4 +47,5 @@ html, body {
 
 .aimoji {
   width: 100%;
+  font-family: Noto Color Emoji, Emojione, Twemoji, Symbola;
 }
